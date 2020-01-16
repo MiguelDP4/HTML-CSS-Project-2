@@ -4,7 +4,7 @@ body{
 }
 .main-grid{
     display: grid;
-    grid-template-rows: 10% 10% 10% fit-content(700px) 10%;
+    grid-template-rows: 10% fit-content(35px) 10% fit-content(700px) 10%;
 }
 
 .sign-in-left{
@@ -65,4 +65,15 @@ body{
     color: whitesmoke;
     border-radius: 5px;
     border: solid 0.5px #585858;
+}
+
+.logo{
+    text-align:center;
+}
+
+.logo img{
+    width: 118px;
+    height: 35px;
+    object-fit: none;
+    object-position: 0px 0px;
 }
