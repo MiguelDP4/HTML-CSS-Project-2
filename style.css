@@ -149,3 +149,61 @@ body{
     width: 74px;
     height: 22px;
 }
+
+.frm{
+    justify-content: center;
+    display: grid;
+}
+
+.frm-container {
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+    border-color: rgb(199, 199, 199);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+}
+
+.frm-header h1{
+    color: rgb(76, 76, 76);
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+.frm-header h2{
+    color: rgb(76, 76, 76);
+    font-size: 14px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+.frm-header a{
+    color: rgb(0, 119, 197);
+    font-size: 12px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.frm-header div{
+    padding-top: 20px;
+}
+
+.main-frm{
+    display: grid;
+}
+
+.main-frm label{
+
+}
+
+.main-frm div{
+    display: grid;
+    text-align: left !important;
+}
