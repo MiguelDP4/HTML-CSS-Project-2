@@ -1,13 +1,17 @@
-# embedding-images-and-video
-First Microverse Project Mike&amp;Daniel
-# Embedding Images and Video
-First Microverse HTML Project
+# HTML CSS Project 2
+
+Second Microverse Project Mike&amp;Daniel
+
+# HTML Form
+
+Second Microverse HTML Project
 
 # What it does
 
-It is the Frontend of a YouTube like page.
+It is the Frontend of a Form for a website.
 
 ## Built With
+
 - HTML5
 - CSS3
 
@@ -15,14 +19,15 @@ It is the Frontend of a YouTube like page.
 
 ## Live Demo
 
-[Live Demo](https://dandush03.github.io/embedding-images-and-video/)
+[Live Demo](https://migueldp4.github.io/HTML-CSS-Project-2/)
 
 ## 🤝 Contributing
 
-Contributions are not well recive since this is for learning purposes only, issues are welcome!
+Contributions are not well recived since this is for learning purposes only, issues are welcome!
 
 ## Attributions and Credit
-Special thanks to Microverse, for this learning opportunity  
+
+Special thanks to Microverse, for this learning opportunity . 
 
 ## Show your support
 
