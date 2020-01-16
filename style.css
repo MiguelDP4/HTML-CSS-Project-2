@@ -77,3 +77,27 @@ body{
     object-fit: none;
     object-position: 0px 0px;
 }
+
+.icons{
+    align-items:center;
+    display:grid;
+    justify-content: center;
+}
+
+.icons ul{
+    margin: 0;
+    padding: 0;
+    display:inline;
+}
+
+.icons li{
+    display:inline;
+}
+
+.mint-favicon{
+    background-repeat: no-repeat;
+}
+
+.icon-1 img{
+    background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/mint-favicon-4accf8f4.svg");
+}
