@@ -200,7 +200,12 @@ body{
 }
 
 .main-frm label{
-
+    color: rgb(64, 64, 64);
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 6px;
+    line-height: 25px;
+    text-align: left;
 }
 
 .main-frm div{
