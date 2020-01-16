@@ -255,3 +255,22 @@ body{
     background-size: 12px auto;
     margin-bottom: 30px;
 }
+
+.frm-footer{
+    display:inline-block;
+    word-wrap: break-word;
+    width: 90%;
+}
+
+.frm-footer p{
+    font-size: 12px;
+    color: rgb(117, 117, 117);
+}
+
+.frm-footer a{
+    text-decoration: none;
+}
+
+.frm-footer a p{
+    color: rgb(0, 119, 197); 
+}
