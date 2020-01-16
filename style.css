@@ -14,6 +14,9 @@ body{
     width: 400px;
 }
 
+.sign-in-left div{
+}
+
 .sign-in-label{
     width: 100%;
 }
@@ -41,4 +44,22 @@ body{
     padding: 0;
     text-align: right;
     width: 100%;
+}
+
+.sign-in-button button{
+    background-image: url(https://plugin.intuitcdn.net/identity-authn-core-ui/images/icon-whitelock@3x-76f33cec.png);
+    background-size: 10px auto;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 10px;
+    cursor: pointer;
+    font-size: 13.5px;
+    font-weight: 400;
+    height: 34px;
+    width: 103px;
+    margin: 0px 0px 4px 2px;
+    text-align: center;
+    background-color: rgb(0, 119, 197);
+    color: whitesmoke;
+    border-radius: 5px;
 }
