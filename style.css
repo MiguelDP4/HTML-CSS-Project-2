@@ -47,24 +47,27 @@ body{
     width: 100%;
 }
 
-.sign-in-button button{
+.btn-style{
     background-image: url(https://plugin.intuitcdn.net/identity-authn-core-ui/images/icon-whitelock@3x-76f33cec.png);
     background-size: 10px auto;
     background-repeat: no-repeat;
     background-position-y: center;
-    background-position-x: 20px;
     cursor: pointer;
+    background-color: rgb(0, 119, 197);
+    color: whitesmoke;
+    border-radius: 5px;
+    border: solid 0.5px #585858;
+    text-align: center;
+}
+
+.sign-in-button button{
+    background-position-x: 20px;
     font-size: 13.5px;
     font-weight: 400;
     height: 34px;
     width: 103px;
     margin: 0px 0px 0px 8px;
     padding-left: 20px;
-    text-align: center;
-    background-color: rgb(0, 119, 197);
-    color: whitesmoke;
-    border-radius: 5px;
-    border: solid 0.5px #585858;
 }
 
 .logo{
@@ -208,7 +211,46 @@ body{
     text-align: left;
 }
 
+.main-frm input{
+    font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height:34px;
+    font-size: 16.8px;
+    font-weight:400;
+    padding-left:8px;
+    border-color: rgb(193, 197, 200);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+}
+
+.main-frm p{
+    margin:0;
+    margin-bottom: 24px;
+    padding:0;
+    padding-top:6px;
+    font-size:10px;
+    color: #444;
+}
+
 .main-frm div{
     display: grid;
     text-align: left !important;
+}
+
+.pwd input{
+    background-image: url(https://plugin.intuitcdn.net/identity-authn-core-ui/images/lock-left-grey@3x-a1ab5bd1.png);
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    background-position-x: 96%;
+    background-position-y: center;
+}
+
+.frm-btn button{
+    background-position-x: 20px;
+    font-size: 13.5px;
+    font-weight: 400;
+    height: 34px;
+    width: 103px;
+    margin: 0px 0px 0px 8px;
+    padding-left: 20px;
 }
