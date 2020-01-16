@@ -246,11 +246,12 @@ body{
 }
 
 .frm-btn button{
-    background-position-x: 20px;
-    font-size: 13.5px;
+    background-position-x: 32%;
+    font-size: 15.75px;
     font-weight: 400;
-    height: 34px;
-    width: 103px;
-    margin: 0px 0px 0px 8px;
-    padding-left: 20px;
+    height: 44px;
+    width: 100%;
+    padding-left: 10%;
+    background-size: 12px auto;
+    margin-bottom: 30px;
 }
