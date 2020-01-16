@@ -4,7 +4,7 @@ body{
 }
 .main-grid{
     display: grid;
-    grid-template-rows: 10% fit-content(35px) 10% fit-content(700px) 10%;
+    grid-template-rows: 10% fit-content(35px) fit-content(35px) fit-content(700px) 10%;
 }
 
 .sign-in-left{
@@ -79,6 +79,7 @@ body{
 }
 
 .icons{
+    margin-top: 20px;
     align-items:center;
     display:grid;
     justify-content: center;
@@ -98,6 +99,53 @@ body{
     background-repeat: no-repeat;
 }
 
-.icon-1 img{
+.icon-1 button{
     background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/mint-favicon-4accf8f4.svg");
+    width: 23px;
+    height: 23px;
+    background-color: transparent;
+    border:none;
+    background-repeat: no-repeat;
+}
+
+.mint-favicon button{
+    margin-right: 4px;
+    width: 23px;
+    height: 23px;
+    background-color: transparent;
+    border:none;
+    background-repeat: no-repeat;
+}
+
+.icon-2 button{
+    background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/quickbooks-favicon@2x-c89488e8.svg");
+}
+
+.icon-3 button{
+    background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/tt-favicon@2x-fbd64ab8.svg");
+}
+
+.mint-text button{
+    background-color: transparent;
+    border:none;
+    background-repeat: no-repeat;
+    margin-right: 9px;
+}
+
+.text-1 button{
+    background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/mint-text-0fa36974.svg");
+    width: 37px;
+    height: 20px;
+}
+
+.text-2 button{
+    background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/quick-books-text-db6c72bf.svg");
+    width: 98px;
+    height: 22px;
+}
+
+.text-3 button{
+    background-image:url("https://plugin.intuitcdn.net/identity-authn-core-ui/images/turbo-tax-text-9bc025c5.svg");
+    width: 74px;
+    height: 22px;
 }
