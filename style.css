@@ -4,7 +4,7 @@ body{
 }
 .main-grid{
     display: grid;
-    grid-template-rows: 10% fit-content(35px) fit-content(35px) fit-content(700px) 10%;
+    grid-template-rows: 10% fit-content(35px) fit-content(35px) fit-content(700px) 13%;
 }
 
 .sign-in-left{
@@ -162,11 +162,12 @@ body{
     text-align: center;
     background-color: white;
     padding: 30px;
-    margin: 20px;
+    margin-top: 20px;
     border-color: rgb(199, 199, 199);
     border-style: solid;
     border-width: 1px;
     border-radius: 2px;
+    border-bottom: none;
 }
 
 .frm-header h1{
@@ -256,21 +257,81 @@ body{
     margin-bottom: 30px;
 }
 
-.frm-footer{
-    display:inline-block;
-    word-wrap: break-word;
-    width: 90%;
-}
-
 .frm-footer p{
     font-size: 12px;
     color: rgb(117, 117, 117);
+    font-style: italic;
+    line-height: 18px;
+    margin: 5px;
 }
 
 .frm-footer a{
     text-decoration: none;
+    color: rgb(0, 119, 197); 
 }
 
-.frm-footer a p{
-    color: rgb(0, 119, 197); 
+.re-captcha{
+    border-color: rgb(199, 199, 199);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    border-top: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.re-captcha p {
+    color: rgb(141, 144, 150);
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0;
+    padding:0;
+}
+
+.re-captcha a{
+    text-decoration: none;
+    color: rgb(0, 119, 197);
+}
+
+.page-footer{
+    text-align: center;
+    margin: 30px;
+}
+
+.page-footer ul{
+    margin: 0;
+    padding: 0;
+}
+
+.page-footer li {
+    display: inline;
+    padding-right: 10px;
+}
+
+.page-footer a{
+    color: rgb(80, 80, 80);
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.page-footer p{
+    color: rgb(80, 80, 80);
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.fixed-button button{
+    position: fixed;
+    right: 5%;
+    bottom: 0px;
+    color: whitesmoke;
+    background-color: rgb(107, 108, 114);
 }
