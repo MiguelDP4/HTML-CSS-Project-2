@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(236, 238, 241);
+    font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.main-grid{
+    display: grid;
+    grid-template-rows: 10% 10% 10% fit-content(700px) 10%;
+}
+
+.sign-in-left{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    float: right;
+    width: 400px;
+}
+
+.sign-in-label{
+    width: 100%;
+}
+
+.sign-in-label p{
+    color: rgb(80, 80, 80);
+    line-height: 18px;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.sign-in-label a{
+    text-decoration: none;
+}
+
+.sign-in-label a p{
+    color: rgb(0, 119, 197);;
+    line-height: 18px;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    width: 100%;
+}
