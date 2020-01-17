@@ -1,5 +1,4 @@
 body {
-
   background-color: rgb(236, 238, 241);
   font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
@@ -24,14 +23,13 @@ body {
   width: 100%;
 }
 
-
 .sign-in-label p {
   color: rgb(80, 80, 80);
   line-height: 18px;
   font-size: 12px;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
+  font-weight: 400px;
+  margin: 0px;
+  padding: 0px;
   text-align: right;
 }
 
@@ -41,12 +39,11 @@ body {
 
 .sign-in-label a p {
   color: rgb(0, 119, 197);
-  ;
   line-height: 18px;
   font-size: 12px;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
+  font-weight: 400px;
+  margin: 0px;
+  padding: 0px;
   text-align: right;
   width: 100%;
 }
@@ -67,7 +64,7 @@ body {
 .sign-in-button button {
   background-position-x: 20px;
   font-size: 13.5px;
-  font-weight: 400;
+  font-weight: 400px;
   height: 34px;
   width: 103px;
   margin: 0px 0px 0px 8px;
@@ -93,8 +90,8 @@ body {
 }
 
 .icons ul {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   display: inline;
 }
 
@@ -177,25 +174,25 @@ body {
 .frm-header h1 {
   color: rgb(76, 76, 76);
   font-size: 24px;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
+  font-weight: 400px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .frm-header h2 {
   color: rgb(76, 76, 76);
   font-size: 14px;
-  font-weight: 300;
-  margin: 0;
-  padding: 0;
+  font-weight: 300px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .frm-header a {
   color: rgb(0, 119, 197);
   font-size: 12px;
-  font-weight: 300;
-  margin: 0;
-  padding: 0;
+  font-weight: 300px;
+  margin: 0px;
+  padding: 0px;
   text-decoration: none;
 }
 
@@ -210,7 +207,7 @@ body {
 .main-frm label {
   color: rgb(64, 64, 64);
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 400px;
   padding-bottom: 6px;
   line-height: 25px;
   text-align: left;
@@ -220,7 +217,7 @@ body {
   font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   height: 34px;
   font-size: 16.8px;
-  font-weight: 400;
+  font-weight: 400px;
   padding-left: 8px;
   border-color: rgb(193, 197, 200);
   border-style: solid;
@@ -229,9 +226,9 @@ body {
 }
 
 .main-frm p {
-  margin: 0;
+  margin: 0px;
   margin-bottom: 24px;
-  padding: 0;
+  padding: 0px;
   padding-top: 6px;
   font-size: 10px;
   color: #444;
@@ -253,7 +250,7 @@ body {
 .frm-btn button {
   background-position-x: 32%;
   font-size: 15.75px;
-  font-weight: 400;
+  font-weight: 400px;
   height: 44px;
   width: 100%;
   padding-left: 10%;
@@ -291,9 +288,9 @@ body {
 .re-captcha p {
   color: rgb(141, 144, 150);
   font-size: 10px;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
+  font-weight: 400px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .re-captcha a {
@@ -307,8 +304,8 @@ body {
 }
 
 .page-footer ul {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 .page-footer li {
@@ -320,9 +317,9 @@ body {
   color: rgb(80, 80, 80);
   font-size: 12px;
   line-height: 18px;
-  font-weight: 400;
-  padding: 0;
-  margin: 0;
+  font-weight: 400px;
+  padding: 0px;
+  margin: 0px;
   text-decoration: none;
 }
 
@@ -330,9 +327,9 @@ body {
   color: rgb(80, 80, 80);
   font-size: 12px;
   line-height: 18px;
-  font-weight: 400;
-  padding: 0;
-  margin: 0;
+  font-weight: 400px;
+  padding: 0px;
+  margin: 0px;
   text-decoration: none;
 }
 
@@ -344,7 +341,7 @@ body {
   background-color: rgb(107, 108, 114);
   border-radius: 6px;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 400px;
   line-height: 21px;
   padding: 10px 12px;
   border-style: solid;
