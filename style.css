@@ -28,8 +28,8 @@ body {
   line-height: 18px;
   font-size: 12px;
   font-weight: 400;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   text-align: right;
 }
 
@@ -42,8 +42,8 @@ body {
   line-height: 18px;
   font-size: 12px;
   font-weight: 400;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   text-align: right;
   width: 100%;
 }
@@ -90,8 +90,8 @@ body {
 }
 
 .icons ul {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   display: inline;
 }
 
@@ -175,24 +175,24 @@ body {
   color: rgb(76, 76, 76);
   font-size: 24px;
   font-weight: 400px;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 
 .frm-header h2 {
   color: rgb(76, 76, 76);
   font-size: 14px;
   font-weight: 300px;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 
 .frm-header a {
   color: rgb(0, 119, 197);
   font-size: 12px;
   font-weight: 300px;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   text-decoration: none;
 }
 
@@ -226,9 +226,9 @@ body {
 }
 
 .main-frm p {
-  margin:0;
+  margin: 0;
   margin-bottom: 24px;
-  padding:0;
+  padding: 0;
   padding-top: 6px;
   font-size: 10px;
   color: #444;
@@ -289,8 +289,8 @@ body {
   color: rgb(141, 144, 150);
   font-size: 10px;
   font-weight: 400px;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 
 .re-captcha a {
@@ -304,8 +304,8 @@ body {
 }
 
 .page-footer ul {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 
 .page-footer li {
@@ -318,8 +318,8 @@ body {
   font-size: 12px;
   line-height: 18px;
   font-weight: 400px;
-  padding:0;
-  margin:0;
+  padding: 0;
+  margin: 0;
   text-decoration: none;
 }
 
@@ -328,15 +328,15 @@ body {
   font-size: 12px;
   line-height: 18px;
   font-weight: 400px;
-  padding:0;
-  margin:0;
+  padding: 0;
+  margin: 0;
   text-decoration: none;
 }
 
 .fixed-button button {
   position: fixed;
   right: 5%;
-  bottom:0;
+  bottom: 0;
   color: whitesmoke;
   background-color: rgb(107, 108, 114);
   border-radius: 6px;
