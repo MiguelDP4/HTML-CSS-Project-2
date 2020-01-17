@@ -62,7 +62,7 @@ body {
 .sign-in-button button {
   background-position-x: 20px;
   font-size: 13.5px;
-  font-weight: 400px;
+  font-weight: 400;
   height: 34px;
   width: 103px;
   margin: 0 0 0 8px;
@@ -77,7 +77,7 @@ body {
   width: 118px;
   height: 35px;
   object-fit: none;
-  object-position: 0;
+  object-position: 0 0;
 }
 
 .icons {
@@ -172,7 +172,7 @@ body {
 .frm-header h1 {
   color: rgb(76, 76, 76);
   font-size: 24px;
-  font-weight: 400px;
+  font-weight: 400;
   margin: 0;
   padding: 0;
 }
@@ -180,7 +180,7 @@ body {
 .frm-header h2 {
   color: rgb(76, 76, 76);
   font-size: 14px;
-  font-weight: 300px;
+  font-weight: 300;
   margin: 0;
   padding: 0;
 }
@@ -188,7 +188,7 @@ body {
 .frm-header a {
   color: rgb(0, 119, 197);
   font-size: 12px;
-  font-weight: 300px;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   text-decoration: none;
