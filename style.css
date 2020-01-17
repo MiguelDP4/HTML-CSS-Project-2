@@ -27,7 +27,7 @@ body {
   color: rgb(80, 80, 80);
   line-height: 18px;
   font-size: 12px;
-  font-weight: 400px;
+  font-weight: 400;
   margin: 0px;
   padding: 0px;
   text-align: right;
@@ -41,7 +41,7 @@ body {
   color: rgb(0, 119, 197);
   line-height: 18px;
   font-size: 12px;
-  font-weight: 400px;
+  font-weight: 400;
   margin: 0px;
   padding: 0px;
   text-align: right;
