@@ -8,6 +8,15 @@ body {
   grid-template-rows: 10% fit-content(35px) fit-content(35px) fit-content(700px) 13%;
 }
 
+.main-frm p {
+  margin: 0;
+  margin-bottom: 24px;
+  padding: 0;
+  padding-top: 6px;
+  font-size: 10px;
+  color: #444;
+}
+
 .sign-in-left {
   display: grid;
   grid-template-columns: 67% 33%;
@@ -223,15 +232,6 @@ body {
   border-style: solid;
   border-width: 1px;
   border-radius: 3px;
-}
-
-.main-frm p {
-  margin: 0;
-  margin-bottom: 24px;
-  padding: 0;
-  padding-top: 6px;
-  font-size: 10px;
-  color: #444;
 }
 
 .main-frm div {
