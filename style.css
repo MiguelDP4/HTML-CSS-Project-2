@@ -46,17 +46,6 @@ body {
   text-decoration: none;
 }
 
-.sign-in-label a p {
-  color: rgb(0, 119, 197);
-  line-height: 18px;
-  font-size: 12px;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
-  text-align: right;
-  width: 100%;
-}
-
 .btn-style {
   background-image: url(https://plugin.intuitcdn.net/identity-authn-core-ui/images/icon-whitelock@3x-76f33cec.png);
   background-size: 10px auto;
@@ -273,6 +262,17 @@ body {
 .frm-footer a {
   text-decoration: none;
   color: rgb(0, 119, 197);
+}
+
+.sign-in-label a p {
+  color: rgb(0, 119, 197);
+  line-height: 18px;
+  font-size: 12px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  width: 100%;
 }
 
 .re-captcha {
